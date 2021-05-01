@@ -1,4 +1,4 @@
-using System;
+ï»¿using System;
 using System.Collections;
 using System.ComponentModel;
 using System.Drawing;
@@ -84,7 +84,7 @@ namespace WinFormsChartSamples
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(702, 34);
             this.label9.TabIndex = 0;
-            this.label9.Text = "This sample shows how to bind data to a chart series using the DataBindY method.";
+            this.label9.Text = "This sample shows how to bind data toìŸž chart series using the DataBindY method.";
             this.label9.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // panel1
@@ -212,8 +212,8 @@ namespace WinFormsChartSamples
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(702, 40);
             this.label1.TabIndex = 20;
-            this.label1.Text = "The Y data value is bound to the chart using OleDb and an Access database, and th" +
-                "e data is selected using a simple SQL query. ";
+            this.label1.Text = "The Y dataÂ valueÂ is bound to the chart using OleDb andÂ an Access database, andÂ th" +
+                "e data is selected using a simple SQL query.Â ";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // DatabaseBindingY

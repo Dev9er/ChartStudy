@@ -1,4 +1,4 @@
-using System;
+ï»¿using System;
 using System.Collections;
 using System.ComponentModel;
 using System.Drawing;
@@ -225,7 +225,7 @@ namespace WinFormsChartSamples
             this.labelSampleComment.Name = "labelSampleComment";
             this.labelSampleComment.Size = new System.Drawing.Size(702, 34);
             this.labelSampleComment.TabIndex = 0;
-            this.labelSampleComment.Text = "This sample demonstrates how to filter data points by their X or Y values.";
+            this.labelSampleComment.Text = "This sample demonstrates how to filter data pointsìŸŸy theirìŸš or Y values.";
             this.labelSampleComment.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // panel1
@@ -324,8 +324,8 @@ namespace WinFormsChartSamples
             this.label5.Size = new System.Drawing.Size(702, 56);
             this.label5.TabIndex = 3;
             this.label5.Text = "Filtering criteria is defined by comparing the selected X or Y value against a sp" +
-                "ecified constant value. Points can be removed if they match or do not match the " +
-                "filtering criteria. ";
+                "ecified constant value.Â PointsÂ can be removed if they match or do not match the " +
+                "filtering criteria.Â ";
             this.label5.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // FilterYValuesRange

@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections;
 using System.ComponentModel;
 using System.Drawing;
@@ -92,7 +92,7 @@ namespace WinFormsChartSamples
             this.label9.Size = new System.Drawing.Size(702, 34);
             this.label9.TabIndex = 0;
             this.label9.Text = "This sample uses the InsertEmptyPoints method to repeatedly check for missing dat" +
-                "a points for a given time interval and inserts empty points.�";
+                "a points for a given time interval and inserts empty points. ";
             this.label9.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // panel1
